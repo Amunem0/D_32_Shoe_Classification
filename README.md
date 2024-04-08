@@ -5,6 +5,8 @@ This repository contains the code and resources for a deep learning project aime
 ## Dataset
 The dataset consists of images of shoes from three classes: Nike, Adidas, and Converse. Unfortunately, the dataset used for training and testing the models is not provided in this repository due to its large size and copyright restrictions. However, you can substitute it with any suitable dataset containing images of shoes from these brands.
 
+Dataset Link : https://www.kaggle.com/datasets/die9origephit/nike-adidas-and-converse-imaged
+
 ## Requirements
 - Python 3.x
 - TensorFlow
